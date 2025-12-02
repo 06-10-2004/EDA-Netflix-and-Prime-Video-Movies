@@ -1,6 +1,6 @@
 # EDA-Netflix-and-Prime-Video-Movies
 Exploratory Data Analysis (EDA) of movies and TV shows on Amazon Prime Video and Netflix.
-
+PROJECT PPT : https://github.com/06-10-2004/EDA-Netflix-and-Prime-Video-Movies/blob/main/EDA.pdf
 ## 1. Background & Overview
    
 ## Key Notes
@@ -72,21 +72,21 @@ The project was done as part of my data-science learning journey, applying stati
    Notable outliers exist for exceptionally long movies
 
 ##  4. Insights Deep Dive
-   Platform Differences
+   -> Platform Differences
      Netflix invests heavily in TV shows
      Prime Video leans toward movie-heavy catalog
-   Genre Patterns
+   -> Genre Patterns
      Drama consistently dominates both platforms
      Action & Adventure more common on Prime
      Netflix has more documentaries and international content
-   Duration Trends
+   -> Duration Trends
      Netflix prefers longer movies
      Prime Video includes more shorter, diverse-range movies
-   Geographical Insights
+   -> Geographical Insights
      U.S. remains the major producer
      India contributes heavily to Prime Video, aligning with regional strategies
      Netflix shows more variety across Europe and East Asia
-   Statistical Insights
+   -> Statistical Insights
      T-test: Confirms measurable difference in durations across platforms
      ANOVA: Genre is a major factor in runtime variation
      Normality tests: Duration data shows mild skewness & outliers
@@ -114,17 +114,17 @@ General Strategy Suggestions
    * Catalog changes post-2021 are not included in this study
 
 ## 7. Tools & Technologies
-    Python
-    Pandas, NumPy
-    Matplotlib, Seaborn
-    SciPy (T-test, ANOVA)
-    Jupyter Notebook
-    Excel (raw data)
-    Data Cleaning & Feature Engineering techniques
+   Python
+   Pandas, NumPy
+   Matplotlib, Seaborn
+   SciPy (T-test, ANOVA)
+   Jupyter Notebook
+   Excel (raw data)
+   Data Cleaning & Feature Engineering techniques
 
 ## 8. Conclusion
 
-     This project provided a comprehensive look into content trends, platform differences, and regional dynamics between Netflix and Prime Video. By applying full EDA workflows—data cleaning, visualization, statistical testing—this analysis highlights how data insights can directly influence content strategy, competitiveness, and viewer engagement in the streaming industry.
+   This project provided a comprehensive look into content trends, platform differences, and regional dynamics between Netflix and Prime Video. By applying full EDA workflows—data cleaning, visualization, statistical testing—this analysis highlights how data insights can directly influence content strategy, competitiveness, and viewer engagement in the streaming industry.
 
 It also strengthened my practical expertise in:
      Data analysis
