@@ -77,17 +77,21 @@ The project was done as part of my data-science learning journey, applying stati
    -> Platform Differences
      Netflix invests heavily in TV shows
      Prime Video leans toward movie-heavy catalog
+     
    -> Genre Patterns
      Drama consistently dominates both platforms
      Action & Adventure more common on Prime
      Netflix has more documentaries and international content
+     
    -> Duration Trends
      Netflix prefers longer movies
      Prime Video includes more shorter, diverse-range movies
+     
    -> Geographical Insights
      U.S. remains the major producer
      India contributes heavily to Prime Video, aligning with regional strategies
      Netflix shows more variety across Europe and East Asia
+     
    -> Statistical Insights
      T-test: Confirms measurable difference in durations across platforms
      ANOVA: Genre is a major factor in runtime variation
