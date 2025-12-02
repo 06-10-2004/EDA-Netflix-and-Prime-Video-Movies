@@ -1,6 +1,8 @@
 # EDA-Netflix-and-Prime-Video-Movies
 Exploratory Data Analysis (EDA) of movies and TV shows on Amazon Prime Video and Netflix.
+
 PROJECT PPT : https://github.com/06-10-2004/EDA-Netflix-and-Prime-Video-Movies/blob/main/EDA.pdf
+
 ## 1. Background & Overview
    
 ## Key Notes
